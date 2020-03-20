@@ -6,7 +6,8 @@ Prerequistes
 * nltk
 * pytorch
 
-```Data
+```
+Data
 https://cogcomp.seas.upenn.edu/page/resource_view/81
 ```
 
@@ -14,8 +15,7 @@ https://cogcomp.seas.upenn.edu/page/resource_view/81
 Steps
 ```
 * Follow the steps in the notebook
-* Vocab used is numberbatch embedding(https://www.kaggle.com/nholloway/conceptnet-numberbatch-vectors)
- + training words with frequency > 20   
+* Vocab used is numberbatch embedding(https://www.kaggle.com/nholloway/conceptnet-numberbatch-vectors) + training words with frequency > 20   
 
 
 ```
