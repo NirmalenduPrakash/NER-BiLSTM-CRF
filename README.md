@@ -1,4 +1,6 @@
-# NER sequence tagging using BiLSRM and CRF model 
+# NER sequence tagging using BiLSTM and CRF model 
+
+# NER sequence tagging using BERT Encoding and CRF model 
 
 ```
 Prerequistes
